@@ -1,0 +1,7 @@
+img/*.jpg
+img/*.png
+!img/akari-*.png
+!img/aria-company.png
+!img/stripes.png
+!img/commenter-*.jpg
+!img/neo-venezia-*.jpg
